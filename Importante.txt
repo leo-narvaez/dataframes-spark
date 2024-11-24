@@ -1,0 +1,9 @@
+Importante:
+El entregable está dentro de la carpeta "solutions"
+
+Este proyecto está organizado en tres carpetas principales: 
+- Dataset (contiene los datasets utilizados)
+- Images (incluye imágenes de soporte)
+- Solutions (notebooks con las soluciones completas). 
+
+El notebook principal, ubicado en la raíz del proyecto, sirve como ejemplo y guía para comprender el trabajo realizado.
